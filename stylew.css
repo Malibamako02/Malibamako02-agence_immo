@@ -1,0 +1,76 @@
+.image img{ 
+
+    position: absolute;
+    width: 2%;
+    height: 5%;
+    left: 575px;
+    top: 110px;
+} 
+
+.contenu{
+    margin-top: -30%;
+    margin-left: 32%;
+    /* margin: auto; */
+    border-radius: 2px;
+    width: 350px;
+    height: 260px;
+    position: absolute;
+    background-color: rgba(197, 210, 216, 0.34);
+    box-shadow: 0 0 15px #333;
+   
+}
+.haut{
+    text-align: center;
+     /* margin-top: -78%; */
+     
+}
+h3 {
+    color: #080808;
+    font-size: 25px;
+    margin-top:-3%;
+    
+}
+.main{
+    text-align: center;
+}
+.main input,button{
+    width: 250px;
+    height: 30px;
+    border:none;
+    outline: none;
+    padding-left: 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+    background-color: #D9D9D9;
+    border-radius: 2px;
+    
+}
+.main button{
+    padding-left: 0px;
+    background-color: aquamarine;
+    width: 200px;
+    height: 40px;
+}
+body{
+    /* margin-top: 45%; */
+     /* background: no-repeat center/60% url(login.png); */
+     /* background-size: 60% 60%; */
+     /* background-repeat: no-repeat;
+     overflow: hidden;
+    font-family: sans-serif; */
+    
+}
+.main a{
+    color: bisque;
+    text-decoration: none;
+
+}
+
+#img{
+    width: 70%;
+    margin: auto;
+}
+#img img{
+    margin-top: 20px;
+    width: 100%;
+}
